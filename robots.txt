@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-qk0ccd.cingbet138.site/sitemap.xml
